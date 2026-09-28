@@ -1,0 +1,3 @@
+# Dress Rehearsal Verification
+
+GenVM AST lint passed, two direct surface tests passed, TypeScript passed, static export passed, content scans passed, and the production dependency audit reported zero vulnerabilities. StudioNet finalized `0xf78585458b19472f899aee2f066d4915fc7ac3b7ecca9f016ec8b93cd11d66de` with `MAJORITY_AGREE` and leader execution `SUCCESS`, creating `0x83B4544bDE255E25249F0b43dA9E606c493f43ec`. The reviewed contract source SHA-256 is `c089e0784f0f341135ad8a865ec04abb20126f023798f01dea1a6c1d712ad707`, and the matching first repository commit is `c1e5fd4f13a450b1c8da9ac172db0e49a8b6e71f`. Cloudflare canonical production returned HTTP 200 with title `Subtitle Stage`.
